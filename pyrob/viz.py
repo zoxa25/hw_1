@@ -176,7 +176,7 @@ def change_widget_fill_color(tag, fill_color, outline_color):
 
 
 def on_task_errored():
-    change_widget_fill_color('robot', ROBOT_ERROR_FILL_COLOR, ROBOT_ERROR_FILL_COLOR)
+ooooooooooo    change_widget_fill_color('robot', ROBOT_ERROR_FILL_COLOR, ROBOT_ERROR_FILL_COLOR)
     sleep(ON_TASK_ERRORED_DELAY)
 
 
